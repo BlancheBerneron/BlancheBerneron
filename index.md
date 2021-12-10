@@ -3,6 +3,8 @@
 
 >Faced with the climate emergency, speeches are not enough. 
 
+![This is an image](https://www.ecosia.org/images?q=greenpeace#id=E76621D363A02BDD9D6D4ED1CA2271AED4BF26A6)
+
 You can use the [editor on GitHub](https://github.com/BlancheBerneron/BlancheBerneron/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
