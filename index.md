@@ -3,7 +3,7 @@
 
 >Faced with the climate emergency, speeches are not enough. 
 
-![This is an image](https://www.ecosia.org/images?q=greenpeace#id=E76621D363A02BDD9D6D4ED1CA2271AED4BF26A6)
+![Alt text](./case-study-greenpeace-featured.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/BlancheBerneron/BlancheBerneron/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
